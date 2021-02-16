@@ -1,9 +1,10 @@
+<!--
 [![Youtube][youtube-shield]][youtube-url]
 [![Facebook-Page][facebook-shield]][facebook-url]
 [![Facebook-Group][facebook-shield]][facebook-group-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 <!-- PROJECT Title -->
 <br />
 <p align="center">
@@ -160,16 +161,16 @@ Create a `.eslintrc` file in the project root and enter the below contents:
 
 ## Contact
 
-Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
-
+Munir uddin Mahbub - [mahbub.hasan.9000@gmail.com](mailto:mahbub.hasan.9000@gmail.com)
+<!--
 Project Link: [https://github.com/learnwithsumit/think-in-a-react-way](https://github.com/learnwithsumit/think-in-a-react-way)
 
 Youtube Playlist Link: [https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
 
 Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
-
+-->
 <!-- MARKDOWN LINKS & IMAGES -->
-
+<!--
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
 [youtube-url]: https://youtube.com/LearnwithSumit
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
@@ -179,3 +180,4 @@ Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/Learnw
 [instagram-url]: https://instagram.com/learnwithsumit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/learnwithsumit
+-->
