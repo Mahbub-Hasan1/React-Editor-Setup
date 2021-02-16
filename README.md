@@ -83,17 +83,17 @@ In order to lint and format your React project automatically according to popula
 ### Install Dev Dependencies
 
 ```sh
-yarn add -D prettier
-yarn add -D babel-eslint
+npm add -D prettier
+npm add -D babel-eslint
 npx install-peerdeps --dev eslint-config-airbnb
-yarn add -D eslint-config-prettier eslint-plugin-prettier
+npm add -D eslint-config-prettier eslint-plugin-prettier
 ```
 
 or You can also add a new script in the scripts section like below to install everything with a single command:
 
 ```json
 scripts: {
-    "lint": "yarn add -D prettier && yarn add -D babel-eslint && npx install-peerdeps --dev eslint-config-airbnb && yarn add -D eslint-config-prettier eslint-plugin-prettier"
+    "lint": "npm add -D prettier && npm add -D babel-eslint && npx install-peerdeps --dev eslint-config-airbnb && npm add -D eslint-config-prettier eslint-plugin-prettier"
 }
 ```
 
